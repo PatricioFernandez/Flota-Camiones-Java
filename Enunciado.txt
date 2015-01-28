@@ -1,0 +1,4 @@
+Flota de Camiones. El propietario de la compañía de transportes “La tortuga” es un matemático amateur.
+ Después de comprar una flota nueva de camiones, decidió identificar a cada vehículo, 
+pintando sobre su cabina un número menor que 500. Solo para ser diferente, escogió todos aquellos números cuyos cuadrados terminaran en el número en cuestión. Así uno de los camines se marcó con el numero 25 ya que 25^2 = 625. 
+¿Cuántos camiones formaban la flota de la compañía? ¿Cuáles eran sus números?
